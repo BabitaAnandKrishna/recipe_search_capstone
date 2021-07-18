@@ -16,10 +16,10 @@ And if user has some allergy with any food then user can enter in exclude ingred
 After getting result in grid view user can click and see the web view in next page.
 
 In this Project I have used below pakages:
-  # form_field_validator:
-  # http:
-  # webview_flutter:
-  # url_launcher:
+  form_field_validator:
+  http:
+  webview_flutter:
+  url_launcher:
   
 
 ![Screenshot_1626631879](https://user-images.githubusercontent.com/47002534/126077981-0af4349a-ac41-4297-b650-4fad3959be89.png)
