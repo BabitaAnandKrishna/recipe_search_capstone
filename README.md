@@ -7,9 +7,9 @@ A new Flutter project.
 In this App we can search recipe for given ingredients. 
 Just I am using Edamam Recipe API.
 
-Here we can seach recipe according to four required and one optional parameter.
+Here we can search recipe according to four required and one optional parameter.
 mandatory params:
-User has to input Ingredients, number of recipes, minimun and maximum number of calories. 
+User has to input Ingredients, number of recipes, minimum and maximum number of calories. 
 optional params:
 And if user has some allergy with any food then user can enter in exclude ingredients text field.
 
